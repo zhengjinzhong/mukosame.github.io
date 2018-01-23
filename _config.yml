@@ -2,7 +2,7 @@
 
 markdown: rdiscount
 
-highlighter: 'pygments'
+#highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
